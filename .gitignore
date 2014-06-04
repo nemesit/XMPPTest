@@ -35,5 +35,5 @@ tags
 *.un~
 Session.vim
 
-# Xcode
-Build/
+# Xcode 	ignore build directory
+/Build
